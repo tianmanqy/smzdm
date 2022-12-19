@@ -43,3 +43,6 @@ first push
 + 2020-12-12  
 修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。  
 现在没有`SERVERCHAN_SECRETKEY`也可以正常签到并不报错。
+  
++ 2022-12-19
+近期发现签到出现失效，现在重新将Cookie设置之后重新尝试。
